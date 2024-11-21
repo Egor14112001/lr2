@@ -46,7 +46,7 @@ mlflow server --backend-store-uri sqlite:///mlruns.db
 * mae: 0.16
 * mape: 0.05
 * mse: 0.08
-Параметры модели:
+# Параметры модели:
 * depth: 8
 * max_features: 0.5052449805697352
 * n_estimators': 3
